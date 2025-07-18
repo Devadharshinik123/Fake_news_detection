@@ -27,6 +27,11 @@
 -This project uses the Fake and Real News Dataset from Kaggle.
 -It includes labeled news headlines categorized as real or fake, used here for training and evaluation.
 
+ Acknowledgments
+-Special thanks to [Krish Naik](https://www.youtube.com/@krishnaik06) for his amazing tutorials and guidance on deep learning and NLP.
+-This project was inspired by one of his videos on fake news detection using BiLSTM.
+-You can find more of his work on GitHub and LinkedIn.
+
 ## Feedback
 If you have feedback. Please reach out to 19devadharshini@gmail.com
 
