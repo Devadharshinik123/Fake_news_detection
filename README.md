@@ -11,10 +11,10 @@
 ## Model Performance
 
  Metric         Score                   
- Accuracy       87%                      
+ Accuracy       89%                      
  Recall (Fake)  90%                      
  F1-score       89%                      
- Dataset Size   822 samples (balanced)   
+ Dataset Size   824 samples (balanced)   
 
 ## technology used
 -Python
