@@ -1,5 +1,5 @@
 ## Fake-News-Detection-using-BiLSTM
--Built a deep learning model to classify news headlines as real or fake using a Bidirectional LSTM. Focused on reducing false positives and false negatives through careful data cleaning, dropout, and class balancing. Achieved 87% accuracy and 90% recall on a dataset of ~800 labeled headlines using 300D embeddings.
+-Built a deep learning model to classify news headlines as real or fake using a Bidirectional LSTM. Focused on reducing false positives and false negatives through careful data cleaning, dropout, and class balancing. Achieved 89% accuracy and 90% recall on a dataset of ~800 labeled headlines using 300D embeddings.
 
 ## Features
 -Binary classification: real vs. fake headlines
